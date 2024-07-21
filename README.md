@@ -12,7 +12,7 @@ VO1DS Loader is a versatile tool designed to manage and launch various injectors
 ## Installation
 
 1. **Download the Package**
-   - Download the latest version of the VO1DS Loader package from [here](https://mega.nz/folder/0ytHDCKa#3vPimC3m3MYNWglnUOelQw).
+   - Download the latest version of the VO1DS Loader package from [here](https://mega.nz/file/Zz9xmToQ#R-mxi_TopBOI5BLWnAqnIqp50250Hv0D19GBgWARp3M).
    
 2. **Extract the Package**
    - Extract the contents of the `Vo1dsLoader.zip` file to a location of your choice.
@@ -44,7 +44,7 @@ VO1DS Loader is a versatile tool designed to manage and launch various injectors
 ## Installation
 
 1. **Download the Package**
-   - Download the latest version of the VO1DS Loader package from [here](https://mega.nz/folder/0ytHDCKa#3vPimC3m3MYNWglnUOelQw).
+   - Download the latest version of the VO1DS Loader package from [here](https://mega.nz/file/Zz9xmToQ#R-mxi_TopBOI5BLWnAqnIqp50250Hv0D19GBgWARp3M).
    
 2. **Extract the Package**
    - Extract the contents of the `Vo1dsLoader.zip` file to a location of your choice.
