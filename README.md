@@ -76,42 +76,6 @@ Vo1dsLoader
 ├── gotham.exe
 └── vo1ds_checker.bat
 
-## Usage
-
-1. **Selecting an Injector**
-   - Open VO1DS Loader.
-   - Scroll through the list of available injectors on the left panel.
-   - Click on the desired injector to select it.
-
-2. **Loading the Injector**
-   - Once selected, click the `Load Cheat` button to start the injector.
-
-3. **Checking for Updates**
-   - The loader automatically checks for updates upon startup.
-   - If a new version is available, you will be prompted to update.
-
-4. **Download Links/Settings**
-   - Use the dropdown menu in the right panel to select a download option.
-   - Click `Download` to open the link in your browser.
-
-## Update Check
-
-- The loader checks for updates from `https://example.com/version.txt`.
-- If an update is available, you will be prompted to download the latest version.
-
-## Troubleshooting
-
-- **Image Not Found**: If you encounter a "File Not Found" error for images, ensure that all image files are present in the `images` directory.
-- **Injector Not Available**: If an injector executable is not available, ensure that the corresponding file is present in the `injectors` directory.
-
-## Additional Information
-
-- **Discord**: Join our community on Discord for support and updates: [https://discord.gg/vo1ds](https://discord.gg/vo1ds)
-- **Website**: Visit our website for more products: [https://sleepymodz.sellpass.io/products](https://sleepymodz.sellpass.io/products)
-
-## License
-
-VO1DS Loader is provided under the MIT License. See the `LICENSE` file for more details.
 
 
 ## Usage
